@@ -1,2 +1,2 @@
-# projeto-x-222
-17/06
+# site-alura-plus
+Projeto 2 Segundo ano
